@@ -35,26 +35,10 @@ export const App = (
         email="emanual@gmail.com"
         phoneNumber="045656525"
       />
-      <Contact
-        name="john"
-        email="john@gmail.com"
-        phoneNumber="045656525"
-      />
-      <Contact
-        name="emanul"
-        email="emanual@gmail.com"
-        phoneNumber="045656525"
-      />
-      <Contact
-        name="emanul"
-        email="emanual@gmail.com"
-        phoneNumber="045656525"
-      />
-      <Contact
-        name="emanul"
-        email="emanual@gmail.com"
-        phoneNumber="045656525"
-      />
+      <Contact name="john" email="john@gmail.com" phoneNumber="045656525" />
+      <Contact name="david" email="david@gmail.com" phoneNumber="045656525" />
+      <Contact name="vi" email="vi@gmail.com" phoneNumber="045656525" />
+      <Contact name="karim" email="karim@gmail.com" phoneNumber="045656525" />
     </div>
   </div>
 );
